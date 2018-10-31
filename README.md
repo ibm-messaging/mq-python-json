@@ -4,6 +4,8 @@ Repo showing an example of how to consume and parse MQ event messages in Python
 ## Example usage
 python read-mq-events.py
 
+The script assumes you have a local queue manager called QM1.
+
 ## Example output
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
 Source: SYSTEM.ADMIN.ACCOUNTING.QUEUE  
