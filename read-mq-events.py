@@ -64,7 +64,7 @@ def display_statistics_mqi_message():
 
 while 1:
 
-    ( rc, jsonOutput ) = commands.getstatusoutput( "/opt/mqm/samp/bin/amqsevt -w 10 -m QM1 -o json -q SYSTEM.ADMIN.STATISTICS.QUEUE -q SYSTEM.ADMIN.ACCOUNTING.QUEUE -q SYSTEM.ADMIN.ACTIVITY.QUEUE -q SYSTEM.ADMIN.PERFM.EVENT -q SYSTEM.ADMIN.QMGR.EVENT" )
+    ( rc, jsonOutput ) = commands.getstatusoutput( "/opt/mqm/samp/bin/amqsevt -w 10 -m QM1 -o json -q SYSTEM.ADMIN.STATISTICS.QUEUE -q SYSTEM.ADMIN.ACCOUNTING.QUEUE" )
 
     if( rc == 0 ):
 
