@@ -1,5 +1,5 @@
 # mq-python-json
-Repo showing example(s) of how to consume and parse MQ event messages in Python
+Repo showing an example of how to consume and parse MQ event messages in Python
 
 ## Example usage
 python read-mq-events.py
