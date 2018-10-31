@@ -33,16 +33,16 @@ Total Gets for QM : 0
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
 Source: SYSTEM.ADMIN.STATISTICS.QUEUE  
 Type: Statistics Queue  
-- SYSTEM.ADMIN.QMGR.EVENT  
+\- SYSTEM.ADMIN.QMGR.EVENT  
 Puts : 0 (failed = 0)  
 Gets : 0 (failed = 0)  
-- SYSTEM.CLUSTER.COMMAND.QUEUE  
+\- SYSTEM.CLUSTER.COMMAND.QUEUE  
 Puts : 0 (failed = 0)  
 Gets : 0 (failed = 1)  
-- SYSTEM.INTER.QMGR.PUBS  
+\- SYSTEM.INTER.QMGR.PUBS  
 Puts : 0 (failed = 0)  
 Gets : 0 (failed = 1)  
-- SYSTEM.INTER.QMGR.FANREQ  
+\- SYSTEM.INTER.QMGR.FANREQ  
 Puts : 0 (failed = 0)  
 Gets : 0 (failed = 1)  
 - SYSTEM.BROKER.DEFAULT.STREAM  
