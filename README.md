@@ -2,7 +2,7 @@
 Repo showing example(s) of how to consume and parse MQ event messages in Python
 
 ## Example usage
-python pythonTest.py
+python read-mq-events.py
 
 ## Example output
 *************************************
